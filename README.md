@@ -1,8 +1,6 @@
                 Job Search Plan  
 
-
 const TARGET: string = "from February 1st to February 28th";
-
 
 Main Goal: "Find a job by the TARGET date inclusive."
 
@@ -65,7 +63,6 @@ What do I need to accomplish the main goal?
 6.4 Conduct a weekly review of completed tasks.  
 6.5 Adjust and update the plan if necessary.  
 6.6 Keep a record of completed interviews, including questions and answers.  
-
 
 
 7. What is needed to prepare for technical interviews and coding tests?  
